@@ -26,8 +26,6 @@ along with UrlMark.  If not, see <http://www.gnu.org/licenses/>.
 
     <link
        rel="stylesheet"
-       crossorigin="anonymous"
-       integrity="sha256-r0wcIKU1PTJnW/DiYo5WDIEkG2YDqX5/iN/Ez2xEI/Q="
        href="https://cdn.jsdelivr.net/foundation/6.1.1/foundation.min.css">
 
   </head>
@@ -36,11 +34,14 @@ along with UrlMark.  If not, see <http://www.gnu.org/licenses/>.
 
 
       <div class="top-bar-left">
-        <ul class="dropdown menu" data-dropdown-menu>{left}</ul>
+        <ul class="dropdown menu"
+            data-alignment="left"
+            data-dropdown-menu>{left}</ul>
       </div>
 
       <div class="top-bar-right">
-        <ul class="dropdown menu" data-dropdown-menu>{right}</ul>
+        <ul class="dropdown menu"
+            data-dropdown-menu>{right}</ul>
       </div>
     </nav>
 
@@ -82,17 +83,11 @@ along with UrlMark.  If not, see <http://www.gnu.org/licenses/>.
 
 
     <script
-       crossorigin="anonymous"
-       integrity="sha256-ImQvICV38LovIsvla2zykaCTdEh1Z801Y+DSop91wMU="
-       src="https://cdn.jsdelivr.net/jquery/2.1.4/jquery.min.js">
+       src="https://cdn.jsdelivr.net/jquery/2.2.2/jquery.min.js">
     </script>
-
     <script
-       crossorigin="anonymous"
-       integrity="sha256-TtdCGlgVTEs/WjZZF+ZkbB6Hk7n2/x6aiTBOEpOaoYs="
        src="https://cdn.jsdelivr.net/foundation/6.1.1/foundation.min.js">
     </script>
-
     <script>$(document).foundation();</script>
 
   </body>
