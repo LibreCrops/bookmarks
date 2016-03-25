@@ -112,7 +112,7 @@
         - [Translation](#)
             - [Google Translate](https://translate.google.com/)
             - [Google 翻译](http://translate.google.cn/)
-            - [百度在线翻译](http://fanyi.baidu.com.cn/)
+            - [百度在线翻译](http://fanyi.baidu.com/)
             - [译言网](http://www.yeeyan.org/)
         - [Examination](#)
             - [全国翻译专业资格（水平）考试网](http://www.catti.net.cn/)
