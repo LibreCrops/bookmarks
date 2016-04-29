@@ -19,6 +19,7 @@
 - [Discovery](#)
     - [Interests](#)
         - [reddit](https://www.reddit.com/)
+        - [豆瓣](https://www.douban.com/)
         - [V2EX](https://www.v2ex.com/)
         - [知乎](http://www.zhihu.com/)
         - [百度贴吧](http://tieba.baidu.com/)
