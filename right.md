@@ -131,6 +131,7 @@
     - [Reading Materials](#)
         - [News](#)
             - [The Economist](http://www.economist.com/)
+            - [The New York Times](http://www.nytimes.com/)
             - [China Daily](http://www.chinadaily.com.cn/)
             - [Global Times](http://www.globaltimes.cn/)
             - [BBC](http://www.bbc.com/)
