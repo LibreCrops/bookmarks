@@ -1,2 +1,2 @@
 default:
-	urlmark
+	urlmark -t template.html
