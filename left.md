@@ -8,6 +8,7 @@
     - [GNU](#)
         - [GNU](https://www.gnu.org/)
         - [FSF](http://www.fsf.org/)
+        - [Richard Stallman](https://stallman.org/)
     - [UNIX & POSIX](#)
         - [Resources](#)
             - [The Open Group Base Specifications Issue 7, 2013 Edition](http://pubs.opengroup.org/onlinepubs/9699919799/)
