@@ -14,6 +14,7 @@
         - [超市发](http://www.bjcsf.com/)
         - [物美](http://www.wumart.com/)
         - [卜蜂莲花](http://www.cplotus.com/)
+        - [京东网上超市](http://chaoshi.jd.com/)
         - [天猫超市](https://chaoshi.tmall.com/)
     - [Payment](#)
         - [PayPal](https://www.paypal.com/)
