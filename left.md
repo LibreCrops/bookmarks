@@ -3,7 +3,7 @@
         - [GitHub](https://github.com/) <!-- gb -->
         - [Bitbucket](https://bitbucket.org/) <!-- bt -->
         - [GitLab](https://gitlab.com/)
-        - [SourceForge](https://sourceforge.net/)
+        - [SourceForge](https://sourceforge.net/) <!-- sf -->
         - [CodePlex](https://www.codeplex.com/)
     - [GNU](#)
         - [GNU](https://www.gnu.org/)
@@ -32,12 +32,14 @@
             - [Arch](#)
                 - [ArchWiki](https://wiki.archlinux.org/)
                 - [AUR](https://aur.archlinux.org/)
+                - [git repositories](https://git.archlinux.org/)
                 - [Arch Linux](https://www.archlinux.org/) <!-- arch -->
                 - [Manjaro](https://manjaro.github.io/)
                 - [BlackArch](https://blackarch.org/)
             - [Gentoo](#)
                 - [Gentoo Wiki](https://wiki.gentoo.org/)
                 - [Gentoo Packages](https://packages.gentoo.org/)
+                - [Git Repositories](https://gitweb.gentoo.org/)
                 - [Gentoo](https://www.gentoo.org/)
                 - [Sabayon](https://www.sabayon.org/)
                 - [Funtoo](http://www.funtoo.org/)
@@ -49,6 +51,7 @@
                 - [CentOS](https://www.centos.org/)
             - [Debian](#)
                 - [Debian](https://www.debian.org/)
+                - [git.debian.org](https://anonscm.debian.org/cgit/)
                 - [Kali Linux](https://www.kali.org/) <!-- kali -->
                 - [Kali Linux Documentation](http://docs.kali.org/)
                 - [Ubuntu](http://www.ubuntu.com/)
